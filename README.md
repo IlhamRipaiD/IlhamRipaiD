@@ -12,7 +12,7 @@
 - Git | GitHub | Postman | Playwright | Katalon
 
 ## 📊 GitHub Stats
-![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamripai&show_icons=true&theme=radical)
+![Ilham's GitHub stats](https://github-readme-stats-rose-pi.vercel.app/api?username=ilhamripai&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/ilham-ripai-darmawan)
